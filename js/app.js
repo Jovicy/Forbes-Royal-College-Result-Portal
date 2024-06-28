@@ -22,7 +22,7 @@ function checkResult() {
             <p><strong>Subjects:</strong></p>
             <ul>
                 ${Object.keys(result.subjects).map(subject => `
-                    <li>${subject}: ${result.subjects[subject]}</li>
+                    <li><b>${subject}</b>: ${result.subjects[subject]}</li>
                 `).join('')}
             </ul>
             <div class="red">${result.comment}</div>
