@@ -59,9 +59,12 @@ button:hover {
     list-style: none;
 }
 
-
 .red {
-    color: red;
+    padding: 20px;
+}
+
+.red li {
+    text-align: left;
 }
 
 /* new styles */
