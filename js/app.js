@@ -20,8 +20,8 @@ const studentResults = {
         comment: `
         <li>Abdullah's proficiency in science is commendable. He did well in English and civic studies too.</li> <br>
         <li>However, his performance in Mathematics reflects shortfalls in reviewing skills. </li> <br> 
-        <li>However, notable shortfalls were observed particularly in Creative Writing.</li> <br> 
-        <li>Conclusively, the applicant is recommended for provisional admission into Grade 7</li>`
+        <li>He will continue to receive our support to bridge identified skill gaps and excel.</li> <br> 
+        <li>Conclusively, he is recommended for Grade 7 at Forbes Royal College to continually build on his progress and neutralize challenges faced.</li>`
     },
     
     // Jasim Abdulraheem
@@ -191,8 +191,8 @@ const studentResults = {
         <li>Hajar's performance indicates fair levels of competence in most aspects of English language.</li> <br>
         <li>Her performance in Mathematics indicates extensive skill gaps in foundational concepts.</li> <br> 
         <li>Also, her efforts in science and civic studies were considerably short of expected standards.</li> <br> 
-        <li>Generally, she requires to adopt a more reslient and committed outlook for improved outcomes.</li>
-        <li>We are optimistic that she will thrive under our personalized tutelage on enrollment.</li>
+        <li>Generally, she requires to adopt a more reslient and committed outlook for improved outcomes.</li> <br> 
+        <li>We are optimistic that she will thrive under our personalized tutelage on enrollment.</li> <br> 
         <li>Following these findings, the provisional class placement is Grade 7.</li>`
     },
     
