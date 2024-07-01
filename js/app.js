@@ -3,7 +3,7 @@ const studentResults = {
     // Abdulrahman Abdulrahman
     "FRC-24-48": { 
         name: "Abdulrahman Abdulrahman", 
-        subjects: { Math: 'C', English: 'B', Science: 'A', Civic: 'C' }, 
+        subjects: { Math: 'B', English: 'B', Science: 'A', Civic: 'B' }, 
         parameter: '<p>0-39(D)</p><p>40-59(C)</p><p>60-79(B)</p><p>80-100(A)</p>', 
         comment: `
         <li>Abdulrahman showed commendable ability in language skills and science.</li> <br>
@@ -15,7 +15,7 @@ const studentResults = {
     // Abdullah Mohammed Musawa
     "FRC-24-76": { 
         name: "Abdullah Mohammed Musawa", 
-        subjects: { Math: 'D', English: 'C', Science: 'B', Civic: 'C' }, 
+        subjects: { Math: 'C', English: 'B', Science: 'A', Civic: 'B' }, 
         parameter: '<p>0-39(D)</p><p>40-59(C)</p><p>60-79(B)</p><p>80-100(A)</p>', 
         comment: `
         <li>Abdullah's proficiency in science is commendable. He did well in English and civic studies too.</li> <br>
@@ -27,7 +27,7 @@ const studentResults = {
     // Jasim Abdulraheem
     "FRC-24-23": { 
         name: "Jasim Abdulraheem", 
-        subjects: { Math: 'C', English: 'C', Science: 'C', Civic: 'C' }, 
+        subjects: { Math: 'B', English: 'B', Science: 'B', Civic: 'C' }, 
         parameter: '<p>0-39(D)</p><p>40-59(C)</p><p>60-79(B)</p><p>80-100(A)</p>', 
         comment: `
         <li>Jasim demonstrated good fluency across all subjects assessed.</li> <br>
@@ -40,7 +40,7 @@ const studentResults = {
     // Mubarak Abdulrahman
     "FRC-24-57": { 
         name: "Mubarak Abdulrahman", 
-        subjects: { Math: 'D', English: 'C', Science: 'A', Civic: 'C' }, 
+        subjects: { Math: 'C', English: 'B', Science: 'A', Civic: 'B' }, 
         parameter: '<p>0-39(D)</p><p>40-59(C)</p><p>60-79(B)</p><p>80-100(A)</p>', 
         comment: `
         <li>Mubarak demonstrated remarkable skill in the assesment on Science.</li> <br>
@@ -52,7 +52,7 @@ const studentResults = {
     // Bilal Ibraheem
     "FRC-24-14": { 
         name: "Bilal Ibraheem", 
-        subjects: { Math: 'C', English: 'C', Science: 'C', Civic: 'C' }, 
+        subjects: { Math: 'B', English: 'B', Science: 'B', Civic: 'C' }, 
         parameter: '<p>0-39(D)</p><p>40-59(C)</p><p>60-79(B)</p><p>80-100(A)</p>', 
         comment: `
         <li>Bilal portrayed good competence in the subjects assessed.</li> <br>
@@ -65,7 +65,7 @@ const studentResults = {
     // Zainab Usman Baba
     "FRC-24-92": { 
         name: "Zainab Usman Baba", 
-        subjects: { Math: 'D', English: 'D', Science: 'C', Civic: 'D' }, 
+        subjects: { Math: 'D', English: 'C', Science: 'B', Civic: 'C' }, 
         parameter: '<p>0-39(D)</p><p>40-59(C)</p><p>60-79(B)</p><p>80-100(A)</p>', 
         comment: `
         <li>Zainab showed good proficiency levels in science, and put in considerable efforts in all other subjects assessed</li> <br>
@@ -77,7 +77,7 @@ const studentResults = {
     // Lubnah Abubakar
     "FRC-24-38": { 
         name: "Lubnah Abubakar", 
-        subjects: { Math: 'D', English: 'C', Science: 'B', Civic: 'C' }, 
+        subjects: { Math: 'C', English: 'B', Science: 'A', Civic: 'B' }, 
         parameter: '<p>0-39(D)</p><p>40-59(C)</p><p>60-79(B)</p><p>80-100(A)</p>', 
         comment: `
         <li>Lubnah portrayed laudable performances in science, civic studies and language skills.</li> <br>
@@ -89,7 +89,7 @@ const studentResults = {
     // Murjanatu Saiful-Muluk
     "FRC-24-61": { 
         name: "Murjanatu Saiful-Muluk", 
-        subjects: { Math: 'D', English: 'C', Science: 'C', Civic: 'C' }, 
+        subjects: { Math: 'C', English: 'B', Science: 'B', Civic: 'C' }, 
         parameter: '<p>0-39(D)</p><p>40-59(C)</p><p>60-79(B)</p><p>80-100(A)</p>', 
         comment: `
         <li>Murjanatu's assessment revealed good fluency in most aspects of language skills and science.</li> <br>
@@ -101,7 +101,7 @@ const studentResults = {
     // Ikram Hassan Samdi
     "FRC-24-20": { 
         name: "Ikram Hassan Samdi", 
-        subjects: { Math: 'D', English: 'D', Science: 'D', Civic: 'D' }, 
+        subjects: { Math: 'D', English: 'C', Science: 'C', Civic: 'C' }, 
         parameter: '<p>0-39(D)</p><p>40-59(C)</p><p>60-79(B)</p><p>80-100(A)</p>', 
         comment: `
         <li>Ikram put in extensive efforts in her attempts across all subjects assessed.</li> <br>
@@ -113,7 +113,7 @@ const studentResults = {
     // Fatima Usman Suleiman
     "FRC-24-53": { 
         name: "Fatima Usman Suleiman", 
-        subjects: { Math: 'D', English: 'B', Science: 'C', Civic: 'D' }, 
+        subjects: { Math: 'C', English: 'B', Science: 'B', Civic: 'C' }, 
         parameter: '<p>0-39(D)</p><p>40-59(C)</p><p>60-79(B)</p><p>80-100(A)</p>', 
         comment: `
         <li>Fatima performed impressively well in language skills.</li> <br>
@@ -185,7 +185,7 @@ const studentResults = {
     // Hajar Mamman Lagos
     "FRC-24-83": { 
         name: "Hajar Mamman Lagos", 
-        subjects: { Math: 'D', English: 'D', Science: 'D', Civic: 'D' }, 
+        subjects: { Math: 'D', English: 'C', Science: 'D', Civic: 'D' }, 
         parameter: '<p>0-39(D)</p><p>40-59(C)</p><p>60-79(B)</p><p>80-100(A)</p>', 
         comment: `
         <li>Hajar's performance indicates fair levels of competence in most aspects of English language.</li> <br>
