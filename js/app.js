@@ -231,7 +231,7 @@ const studentResults = {
         <li>Khadijah put in great effort to attempt all aspects of the assessment, performing well notably in comprehension.</li><br>
         <li>The overall outcome revealed fair proficiency levels with significant room for improvement.</li><br>
         <li>We are confident that she has the potential to excel to ideal standards when adequately supported.</li><br>
-        <li>Conclusively, a provisional placement in Grade 7 is approved, with emphasis on active home support personalized strategies at school.</li><br>
+        <li>Conclusively, a provisional placement in Grade 7 is approved, with emphasis on active home support to complement personalized strategies at school.</li><br>
     `,
   },
   // Asma'u Ahmad Jarma
