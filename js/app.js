@@ -64,8 +64,7 @@ const studentResults = {
     comment: `
         <li>Ayuba’s performance across all areas evaluated falls significantly below desired standards.</li><br>
         <li>His approach to attempting questions portrayed a worrisome absence of genuine efforts.</li><br>
-        <li>While we believe in his potentials, it is our objective opinion that a placement in Grade 7 will not favourably support his growth.</li><br>
-        <li>We therefore recommend a repeat of Grade 6, while rigorous personalized strategies are put in place to overcome identified challenges.</li><br>
+        <li>While we believe in his potentials, it is important to state that his deliberate passiveness continues to pose a significant threat to his progress.</li><br>
     `,
   },
   // Fahad Lawal Nadabo
